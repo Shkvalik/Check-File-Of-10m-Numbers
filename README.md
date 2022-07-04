@@ -12,6 +12,7 @@
 
 #### Client:
 Company "PortaOne"
+
 #### Developers:
 Valentin Kovalenko
 `valikko2004@gmail.com`
